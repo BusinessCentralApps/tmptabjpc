@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/cdc0cb5199db14e1b257f6b9b0c349e60aa1cc1b/.Modules/settings.schema.json",
   "githubRunner": "windows-latest",
   "doNotPublishApps": true,
   "MicrosoftTelemetryConnectionString": "",
@@ -24,5 +25,5 @@
   "useCompilerFolder": true,
   "UseProjectDependencies": true,
   "templateUrl": "https://github.com/businesscentralapps/tmptoHSnf-PTE@main",
-  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go/Actions/cdc0cb5199db14e1b257f6b9b0c349e60aa1cc1b/.Modules/settings.schema.json"
+  "templateSha": "156ee540d4df30e0b881c381d03f03a765036b30"
 }
