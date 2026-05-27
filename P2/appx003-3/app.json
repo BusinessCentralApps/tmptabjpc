@@ -1,0 +1,27 @@
+{
+  "id": "a009f8a1-ee3a-4a10-83ae-724752d50ba4",
+  "name": "appx003-3",
+  "version": "1.0.0.0",
+  "publisher": "MS Test",
+  "runtime": "16.0",
+  "dependencies": [
+    {
+      "name": "app3",
+      "version": "1.0.0.0",
+      "publisher": "MS Test",
+      "id": "6d699f43-5496-472d-abbc-33183ceec7d0"
+    }
+  ],
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "to": 51030,
+      "from": 51030
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDownloadingSource": true,
+    "allowDebugging": true,
+    "includeSourceInSymbolFile": true
+  }
+}
